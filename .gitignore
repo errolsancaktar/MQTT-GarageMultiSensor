@@ -1,4 +1,6 @@
 .pio
 .clang_complete
 .gcc-flags.json
+.vscode
 src/config.h
+src/Garage_MultiSensor.ino.nodemcu.bin
