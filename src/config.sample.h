@@ -23,6 +23,8 @@ char charBuf[50];
 char ipAdd[20];
 char macAdd[30];
 String topic;
+double temperature;
+double humidity;
 
 long lastReconnectAttempt = 0;
 
